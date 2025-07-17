@@ -73,6 +73,8 @@ body{
 }
 
 .user-account .user-profile {
+    display: flex;
+    align-items: center;
     color: #e5dede
 }
 
