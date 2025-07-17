@@ -18,7 +18,10 @@ body{
     height: 100%;
     width:85px;
     padding: 25px 20px;  
-    transition:  all .4s ease; 
+    transition:  all .4s ease;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column; 
 }
 .sidebar:hover {
     width: 260px ;
