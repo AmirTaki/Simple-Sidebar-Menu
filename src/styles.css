@@ -16,8 +16,12 @@ body{
     top:0;
     left:0;
     height: 100%;
-    width:260px;
-    padding: 25px 20px;   
+    width:85px;
+    padding: 25px 20px;  
+    transition:  all .4s ease; 
+}
+.sidebar:hover {
+    width: 260px ;
 }
 .sidebr-header  {
     display: flex;
