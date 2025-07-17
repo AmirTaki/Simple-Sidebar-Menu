@@ -68,3 +68,7 @@ body{
     padding: 12px 10px;
     margin-left: -10px;
 }
+
+.user-account .user-profile {
+    color: #e5dede
+}
