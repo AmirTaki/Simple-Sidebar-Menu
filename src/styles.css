@@ -92,3 +92,8 @@ body{
     font-size: .775rem;
     font-weight : 600;
 }
+
+.user-detail {
+    margin-left: 23px;
+    white-space: nowrap;   
+}
