@@ -72,3 +72,8 @@ body{
 .user-account .user-profile {
     color: #e5dede
 }
+
+.user-account .user-profile img {
+    width: 42px;
+    border-radius: 50%;      
+}
