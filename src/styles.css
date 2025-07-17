@@ -127,7 +127,9 @@ body{
 
 .user-detail {
     margin-left: 23px;
-    white-space: nowrap;   
+    white-space: nowrap;  
+    display: block;
+    margin-top: 0; 
 }
 
 .sidebar:hover .user-account{
