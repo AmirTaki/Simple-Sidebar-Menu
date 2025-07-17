@@ -53,6 +53,10 @@ body{
 .sidebar-links h4 span {
     opacity: 0;
 }
+
+.sidebar:hover .sidebar-links h4 span {
+    opacity: 1;
+}
 .sidebar-links h4{
     color: #fff;
     font-weight : 500;
@@ -65,7 +69,7 @@ body{
     display: flex;
     align-items: center;
     gap: 0 20px;
-    padding: 15px 20px;
+    padding: 15px 10px;
     white-space: nowrap;
     text-decoration: none;
 }
