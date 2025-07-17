@@ -129,3 +129,8 @@ body{
     margin-left: 23px;
     white-space: nowrap;   
 }
+
+.sidebar:hover .user-account{
+    background: #ffffff2d;
+    border-radius: 4px;
+}
