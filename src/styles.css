@@ -78,6 +78,7 @@ body{
 }
 
 .sidebar:hover .menu-separator{
+    transition-delay:0s ;
     transform: scale(0);
 }
 .sidebar-links li a {
