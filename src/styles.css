@@ -24,3 +24,8 @@ body{
     width:260px;
     padding: 25px 20px;   
 }
+.sidebr-header h2 {
+    font-size : 1.25rem;
+    color:#fff;
+    font-weight : 600
+}
